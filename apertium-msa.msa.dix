@@ -13,6 +13,11 @@
          <sdef n="p1"/>
          <sdef n="p2"/>
         <sdef n="p3"/>
+
+   	 <sdef n="m"/>
+  	  <sdef n="f"/>
+         <sdef n="mf"/>
+
    </sdefs>
    <pardefs>
 	<pardef n="عائلة__n">
@@ -30,6 +35,7 @@
     		  <e><p><l>هي</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
  		  <e><p><l>هم</l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
  		  <e><p><l>هن</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+	</pardef>
    </pardefs>
    <section id="main" type="standard">
 
