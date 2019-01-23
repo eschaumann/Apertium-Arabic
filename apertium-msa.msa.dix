@@ -9,9 +9,9 @@
     	<sdef n="pl"/>
    </sdefs>
    <pardefs>
-	<pardef n="gramofon__n">
+	<pardef n="عائلة__n">
  		  <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
-  		  <e><p><l>i</l><r><s n="n"/><s n="pl"/></r></p></e>
+  		  <e><p><l>ات</l><r><s n="n"/><s n="pl"/></r></p></e>
 	</pardef>
    </pardefs>
    <section id="main" type="standard">
