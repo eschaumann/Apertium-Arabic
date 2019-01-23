@@ -6,13 +6,40 @@
          <sdef n="n"/>
          <sdef n="sg"/>
          <sdef n="pl"/>
+          <sdef n="pr"/>
+         <sdef n="prn"/>
+         <sdef n="det"/>
+         <sdef n="p1"/>
+         <sdef n="p2"/>
+        <sdef n="p3"/>
+
+   	 <sdef n="m"/>
+  	  <sdef n="f"/>
+
       </sdefs>
    <pardefs>
          <pardef n="عيلة__n">
 	         <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
 	         <e><p><l>ات</l><r><s n="n"/><s n="pl"/></r></p></e>
-	      </pardef>
-   </pardefs>
+	  </pardef>
+	  <pardef n="prsubj__prn">
+     		  <e><p><l>أنا</l><r>prpers<s n="prn"/><s n="p1"/><s n="sg"/></r></p></e>
+      		  <e><p><l>أحن</l><r>prpers<s n="prn"/><s n="p1"/>><s n="pl"/></r></p></e>
+     		  <e><p><l>أنت</l><r>prpers<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+     		  <e><p><l>أنتي</l><r>prpers<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+   		  <e><p><l>أنتم</l><r>prpers<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+<!--
+  		  <e><p><l>أنتن</l><r>prpers<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+-->
+     		  <e><p><l>هو</l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    		  <e><p><l>هي</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+ 		  <e><p><l>هم</l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+ <!--
+		<e><p><l>هن</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+-->
+
+    </pardef>
+ </pardefs>
    <section id="main" type="standard">
 
    </section>
