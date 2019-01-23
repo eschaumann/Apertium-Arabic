@@ -15,6 +15,7 @@
 
    	 <sdef n="m"/>
   	  <sdef n="f"/>
+         <sdef n="mf"/>
 
       </sdefs>
    <pardefs>
@@ -28,15 +29,16 @@
      		  <e><p><l>أنت</l><r>prpers<s n="prn"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
      		  <e><p><l>أنتي</l><r>prpers<s n="prn"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
    		  <e><p><l>أنتم</l><r>prpers<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
-<!--
-  		  <e><p><l>أنتن</l><r>prpers<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
--->
+<!-- 
+            <e><p><l>أنتن</l><r>prpers<s n="prn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e> 
+--> 
      		  <e><p><l>هو</l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     		  <e><p><l>هي</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
  		  <e><p><l>هم</l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
- <!--
-		<e><p><l>هن</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
--->
+<!-- 
+        <e><p><l>هن</l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e> 
+--> 
+
 
     </pardef>
  </pardefs>
