@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <sdefs>
+    	<sdef n="n"/>
+     	<sdef n="sg"/>
+    	<sdef n="pl"/>
+   </sdefs>
+   <pardefs>
+	<pardef n="gramofon__n">
+ 		  <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+  		  <e><p><l>i</l><r><s n="n"/><s n="pl"/></r></p></e>
+	</pardef>
+   </pardefs>
+   <section id="main" type="standard">
+
+   </section>
+</dictionary>
